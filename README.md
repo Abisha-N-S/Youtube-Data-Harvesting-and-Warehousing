@@ -5,19 +5,20 @@ Youtube Data Harvesting and Warhousing is a project aimed at developing a user-f
 
 Table of content
 
-1.Key technologies and skils
-2.Features
-3.Youtube API
-4.MongoDB
-5.Postgres
-6.Data Analysis
-
+1.	Key technologies and skills
+2.	Features
+3.	Youtube API
+4.	MongoDB
+5.	Postgres
+6.	Data Analysis
 
 Key technologies and Skills
 
-pip install google-api-python-client
-pip install pymongo
-pip install psycopg2
-pip install pandas as pd
-pip install streamlit as st
+•	pip install google-api-python-client
+•	pip install pymongo
+•	pip install psycopg2
+•	pip install pandas as pd
+•	pip install streamlit as st
+
+
 
