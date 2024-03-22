@@ -13,12 +13,11 @@ Table of content
 6.	Data Analysis
 
 Key technologies and Skills
-
-•pip install google-api-python-client
-•pip install pymongo
-•pip install psycopg2
-•pip install pandas as pd
-•pip install streamlit as st
+•	pip install google-api-python-client
+•	pip install pymongo
+•	pip install psycopg2
+•	pip install pandas
+•	pip install streamlit
 
 Feature
 
