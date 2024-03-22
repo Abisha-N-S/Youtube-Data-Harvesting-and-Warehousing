@@ -15,9 +15,9 @@ Table of content
 
 Key technologies and Skills
 
-<pip install google-api-python-client
+pip install google-api-python-client
 pip install pymongo
 pip install psycopg2
 pip install pandas as pd
-pip install streamlit as st>
+pip install streamlit as st
 
