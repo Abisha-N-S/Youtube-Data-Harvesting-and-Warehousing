@@ -14,18 +14,18 @@ Table of content
 
 Key technologies and Skills
 
-•	pip install google-api-python-client
-•	pip install pymongo
-•	pip install psycopg2
-•	pip install pandas as pd
-•	pip install streamlit as st
+•pip install google-api-python-client
+•pip install pymongo
+•pip install psycopg2
+•pip install pandas as pd
+•pip install streamlit as st
 
 Feature
 
-•	Retrieving channel details from the YouTube using youtube API.
-•	Then store the whole data to MongoDB database as a data lake. 
-•	After that the stored data migrated to the SQL in a structured form. 
-•	Then displayed into streamlit.
+•Retrieving channel details from the YouTube using youtube API.
+•Then store the whole data to MongoDB database as a data lake. 
+•After that the stored data migrated to the SQL in a structured form. 
+•Then displayed into streamlit.
 
 YouTube API:
 YouTube API helps to retreive channel, video and comment details. Here i used google api client to make request to the API.
@@ -41,8 +41,10 @@ It provides the platform for storing and managing structured data.
 
 Data Analysis:
 This project provides the comprehensive data analysis capability using Streamlit
-      •	Channel Analysis: It includes insights on playlists, videos, subscribers, views, comments and durations. Gain a deep understanding of channels performance and audience engagement through detailed visualization and summaries.
-      •	Video Analysis: This analysis focus on views, likes, dislikes, comments, published date and duration. Leverage visual representations and metrics to extract valuable insights from individual video.
+
+•Channel Analysis: It includes insights on playlists, videos, subscribers, views, comments and durations. Gain a deep understanding of channels performance and audience engagement through detailed visualization and summaries.
+•Video Analysis: This analysis focus on views, likes, dislikes, comments, published date and duration. Leverage visual representations and metrics to extract valuable insights from individual video.
+
 The Streamlit app provides an intuitive interface to interact with the charts and explore the data visually. Users can customize the visualizations, filter data, and zoom in or out to focus on specific aspects of the analysis.
 With the combined capabilities of Streamlit, the Data Analysis section empowers users to uncover valuable insights and make data-driven decisions.
 
